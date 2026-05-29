@@ -10,7 +10,7 @@ Linux commands are executed in the terminal, which is case-sensitive. This guide
 
 The `ls` command is used to display a list of contents in a directory.
 
-**Syntax:** 
+**Syntax:**  
 ```bash
 ls
 ```
